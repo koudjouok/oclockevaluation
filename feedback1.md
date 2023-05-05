@@ -6,7 +6,7 @@ Le fichier **.htaccess** est un fichier texte qui permet de modifier certains pa
 Sachez que vous devez activez la réécriture d'URL sur votre serveur pour rediriger les requêtes vers le fichier **index.php**.
 
 
-**Pour activer la fonctionnalité Apache de réécriture d'URL. Ajouter "RewriteEngine On" en debut du fichier .htaccess
+**Pour activer la fonctionnalité Apache de réécriture d'URL. Ajouter "RewriteEngine On" en debut du fichier .htaccess**
 
 
 
