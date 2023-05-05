@@ -21,8 +21,8 @@ Obtenir une réponse est généralement un processus en deux étapes.
 Vous devez ajouter la proprité onclick au niveau du bouton submit. EXEMPLE : <button type="submit" onclick="submit()" class="btn btn-primary btn-block mt-5">Valider</button> **onclick** exécute une certaine fonctionnalité quand un bouton est cliqué. Cela peut être quand un utilisateur soumet un formulaire, quand vous changez un certain contenu sur la page web ou d'autres choses du style. Dans notre cas, il va éxecuter la fonction submit() definit dans nortre script.
 
 Nous devons utiliser les options fetch :
-*[method – HTTP-method, par exemple POST],
-*[body – le corps de la requête, un parmi ceux-ci :une chaîne de caractères (par exemple encodé en JSON),un objet FormData, pour soumettre les données en tant que multipart/form-data,]
+* [method – HTTP-method, par exemple POST],
+* [body – le corps de la requête, un parmi ceux-ci :une chaîne de caractères (par exemple encodé en JSON),un objet FormData, pour soumettre les données en tant que multipart/form-data,]
 
 Le format JSON est utilisé la plupart du temps.
 Ce scritp permet d'ajouter un étudiant sans charger toute la page.
