@@ -12,9 +12,15 @@
 | J'ai su appréhender le MCD d'un.e apprenant.e et proposer un retour complet | 👍 | ... |
 
 > Je n'ai pas été très dur envers les apprenants. J'ai donné les badges en fonction du niveau de chacun.
+> 
 > J'ai été très précis dans mes retours à l'équipe pédagogique. J'ai évalué la compréhension des notions de modèle vue controleur
+> 
 > Le niveau actuel des apprenants est très vite perçu. La façon dont ils structurent leur code source
+> 
 > Pas facile, il faut trouver des mots justes, appropriés. Mais j'ai pu quand même m'adapter à la compléxité de mes retours.
+> 
 > J'ai proposer des pistes d'améliorations aux apprenants en fonction du niveau de chacun et les notions implementées.
+> 
 > Pas facile pour la redaction de la notion de fetch, il fallait trouver une pédagogique cohérente pour expliquer la notion de fetch.
+> 
 > J'ai proposé un retour du MCD de l'apprenant. J'ai identifié les erreurs d'analyse de l'aapprenant et proposé des corrections au niveau des cardinalités.
