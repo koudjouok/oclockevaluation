@@ -8,7 +8,6 @@ La syntaxe de base est :
 let promise = fetch(url, [options])
 * url – l’URL cible, ça peut être une API.
 * options – paramètres facultatifs : méthode, en-têtes, etc…
-$ npm start
 ```
 Sans options, c’est une simple requête GET, téléchargeant le contenu de l’url.
 Le navigateur démarre la requête immédiatement et renvoie une promesse que le code appelant devrait utiliser pour obtenir le résultat.
@@ -30,6 +29,7 @@ Ce scritp permet d'ajouter un étudiant sans charger toute la page.
 
 Pour écrire un script javascript, vous devez le faire entre les balises <script> et </script>
 
+```
 <script>
   
   async function submit(){
@@ -61,5 +61,6 @@ Pour écrire un script javascript, vous devez le faire entre les balises <script
   alert(result.message);
   }
 </script>
+```
 
 Au niveau du controlleur, faut renvoyer en format JSON. EXEMPLE : response()->json('message'=>'Etudiant ajouté avec succès');
