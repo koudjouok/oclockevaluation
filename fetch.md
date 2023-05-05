@@ -4,8 +4,8 @@
 **Fetch Javascript** permet d'envoyer des requêtes réseau au serveur et charger de nouvelles informations. 
 Par exemple, nous pouvons faire une requête pour enregistrer des données, mettre à jour, chercher des informations, charger des informations sans que cela recharge la page.
 La syntaxe de base est : let promise = fetch(url, [options])
-  url – l’URL cible, ça peut être une API.
-  options – paramètres facultatifs : méthode, en-têtes, etc…
+  1.url – l’URL cible, ça peut être une API.
+  2.options – paramètres facultatifs : méthode, en-têtes, etc…
   
 Sans options, c’est une simple requête GET, téléchargeant le contenu de l’url.
 Le navigateur démarre la requête immédiatement et renvoie une promesse que le code appelant devrait utiliser pour obtenir le résultat.
