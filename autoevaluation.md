@@ -4,7 +4,6 @@
 | Critère | 👍 | 👎 |
 | ---------------- | ---------------- | ---------------- | 
 | J'ai su faire preuve d'empathie auprès des apprenant.e.s | 👍 | ... |
->jjjjjjj
 | J'ai su être exhaustif et précis dans mes retours à l'équipe pédagogique | 👍 | ... |
 | J'ai su percevoir le niveau actuel des apprenant.e.s en fonction du parcours envoyé | 👍 | ... |
 | J'ai su adapter la complexité de mes retours/corrections en fonction des apprenant.e.s  | 👍 | ... |
