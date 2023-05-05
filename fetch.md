@@ -14,8 +14,8 @@ Sans options, c’est une simple requête GET, téléchargeant le contenu de l�
 Le navigateur démarre la requête immédiatement et renvoie une promesse que le code appelant devrait utiliser pour obtenir le résultat.
 
 Obtenir une réponse est généralement un processus en deux étapes.
-*Premièrement, la promise, renvoyée par fetch, se résout avec un objet de la classe intégrée Response dès que le serveur répond avec des en-têtes.
-*Deuxièmement, pour obtenir le corps de la réponse, nous devons utiliser un appel de méthode supplémentaire.
+* [Premièrement, la promise, renvoyée par fetch, se résout avec un objet de la classe intégrée Response dès que le serveur répond avec des en-têtes.]
+* [Deuxièmement, pour obtenir le corps de la réponse, nous devons utiliser un appel de méthode supplémentaire.]
 
 **EXEMPLE** 
 Vous devez ajouter la proprité onclick au niveau du bouton submit. EXEMPLE : <button type="submit" onclick="submit()" class="btn btn-primary btn-block mt-5">Valider</button> **onclick** exécute une certaine fonctionnalité quand un bouton est cliqué. Cela peut être quand un utilisateur soumet un formulaire, quand vous changez un certain contenu sur la page web ou d'autres choses du style. Dans notre cas, il va éxecuter la fonction submit() definit dans nortre script.
