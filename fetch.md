@@ -33,13 +33,10 @@ Pour écrire un script javascript, vous devez le faire entre les balises <script
 <script>
   
   async function submit(){
-  
-     var firstname =document.getElementById("firstname").value;  **on recupère la valeur du champ firstname via ID. id de ce champ est "firstname"**
-     
-    var lastname =document.getElementById("lastname").value;
-    
+    // on recupère la valeur du champ firstname via ID. id de ce champ est "firstname"
+    var firstname =document.getElementById("firstname").value;       
+    var lastname =document.getElementById("lastname").value;  
     var teacher =document.getElementById("teacher").value; 
-  
     var status =document.getElementById("status").value;
   
   let students={
